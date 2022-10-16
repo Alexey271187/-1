@@ -5,7 +5,7 @@ Console.WriteLine("Впишите первое число");
 int numberA = int.Parse(Console.ReadLine()!);
 Console.WriteLine("Впишите второе число");
 int numberB = int.Parse(Console.ReadLine()!);
-// Выбираем большее и ыводим в консоль
+// Выбираем большее и выводим в консоль
 if(numberA>numberB)
 {
     Console.WriteLine("Число");
